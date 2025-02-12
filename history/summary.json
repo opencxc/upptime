@@ -6,9 +6,9 @@
     "slug": "opencxc-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 170,
@@ -16,7 +16,7 @@
     "timeMonth": 182,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 10
     }
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://opencxc.com",
     "icon": "https://icons.duckduckgo.com/ip3/opencxc.com.ico",
     "slug": "opencxc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,9 +12,11 @@
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 170,
-    "timeWeek": 178,
+    "timeWeek": 177,
     "timeMonth": 182,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
